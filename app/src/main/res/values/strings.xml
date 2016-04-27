@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTTF</string>
+
+    <string name="font_icon_home">\uE900</string>
+    <string name="font_icon_bubble">\uE901</string>
+    <string name="font_icon_headphones">\uE902</string>
+    <string name="font_icon_connection">\uE903</string>
+    <string name="font_icon_compass">\uE904</string>
+</resources>
